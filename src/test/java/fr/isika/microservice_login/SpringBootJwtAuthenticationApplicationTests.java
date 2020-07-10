@@ -1,4 +1,4 @@
-package com.grokonez.jwtauthentication;
+package fr.isika.microservice_login;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
